@@ -49,13 +49,6 @@ Here are some repositories I’ve contributed to:
 ---
 
 ### 📊 **GitHub Stats**
-//Here’s a snapshot of my coding activity:
-
-/*<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glinet-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glinet-dev&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>*/
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glinet-dev&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </p>
