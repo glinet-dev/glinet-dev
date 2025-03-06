@@ -1,93 +1,97 @@
-<h1 align="center">Hi 👋, I'm Glinet A D'Silva</h1>
-<h3 align="center">A passionate Software Developer from [Your Location]</h3>
+<h1 align="center">👋 Hi, I'm Glinet A D'Silva</h1>
+<h3 align="center">A passionate Software Developer building impactful solutions.</h3>
+
+---
+
+### 🚀 **About Me**
+- 💻 **Software Developer** with a focus on **frontend and backend technologies**.
+- 🌱 Currently learning **Backend Technologies** and diving deeper into **System Design**.
+- 💬 Ask me about **React, JavaScript, TypeScript, or anything frontend-related**.
+- 📫 Reach me at **glinet221@gmail.com**.
+
+---
+
+### 🛠️ **Tech Stack**
+Here are some of the technologies I work with:
+
+| **Frontend**       | **Backend**         | **Tools & DevOps**    |
+|---------------------|---------------------|-----------------------|
+| React               | Node.js             | Docker                |
+| JavaScript          | Express             | Git                   |
+| TypeScript          | Flask               | AWS                   |
+| HTML/CSS            | PostgreSQL          | Nginx                 |
+| Redux               | MongoDB             | Jest                  |
+
+---
+
+### 📈 **GitHub Activity**
+I’m an active contributor with a strong focus on **collaboration** and **problem-solving**. Here’s a snapshot of my contributions:
+
+- **2023**: 1,151 contributions
+- **2024**: 717 contributions
+- **2025**: 112 contributions (so far)
+
+#### Activity Breakdown:
+- **66% Commits**: Actively pushing code and building projects.
+- **22% Code Reviews**: Collaborating with teams to improve code quality.
+- **12% Issues & Pull Requests**: Solving problems and contributing to open-source.
+
+---
+
+### 🏆 **Top Contributions**
+Here are some repositories I’ve contributed to:
+
+- **[dochours/dochours-web](https://github.com/dochours/dochours-web)**: Contributed to the frontend and improved user experience.
+- **[dochours/dochours-api](https://github.com/dochours/dochours-api)**: Worked on backend APIs and optimizations.
+- **[glinet-dev/TODO](https://github.com/glinet-dev/TODO)**: A personal project to manage tasks efficiently.
+- **2 Other Repositories**: Collaborated on additional projects to deliver impactful solutions.
+
+---
+
+### 📊 **GitHub Stats**
+Here’s a snapshot of my coding activity:
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=glinet-dev&theme=onedark&row=1&column=6" alt="glinet-dev" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=glinet-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glinet-dev&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-- 🌱 I’m currently learning **Backend Technologies** and diving deeper into **System Design**.
-- 💬 Ask me about **React, JavaScript, TypeScript, or anything related to frontend development**.
-- 📫 How to reach me: **glinet221@gmail.com**
-- ⚡ Fun fact: I love solving problems and building things that make life easier.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glinet-dev&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+</p>
 
-<h3 align="left">🚀 My Tech Stack</h3>
+---
+
+### 🔗 **Connect With Me**
+Let’s collaborate or chat about tech!
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://linkedin.com/in/glinet221" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="mailto:glinet221@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<h3 align="left">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glinet-dev&show_icons=true&theme=radical" alt="glinet-dev" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glinet-dev&theme=dark" alt="glinet-dev" />
-</p>
+---
 
-<h3 align="left">🌐 Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glinet-dev&layout=compact&theme=vision-friendly-dark" alt="glinet-dev" />
-</p>
+### 💡 **Featured Projects**
+Here are some projects I’m proud of:
 
-<h3 align="left">📫 Let's Connect</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/glinet221" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glinet221" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/[YourTwitter]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YourTwitter]" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@[YourMedium]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@[YourMedium]" height="30" width="40" />
-  </a>
-</p>
+- **[TODO](https://github.com/glinet-dev/TODO)**: A task management app built with React and Node.js.
+- **[dochours-web](https://github.com/dochours/dochours-web)**: Contributed to the frontend of a time-tracking application.
+- **[dochours-api](https://github.com/dochours/dochours-api)**: Worked on backend APIs for a collaborative platform.
 
-<h3 align="left">💻 Projects I'm Proud Of</h3>
-<ul>
-  <li><a href="[Project Link]">Project 1</a> - A brief description of the project.</li>
-  <li><a href="[Project Link]">Project 2</a> - A brief description of the project.</li>
-  <li><a href="[Project Link]">Project 3</a> - A brief description of the project.</li>
-</ul>
+---
 
-<h3 align="left">📝 Latest Blog Posts</h3>
-<ul>
-  <li><a href="[Blog Post Link]">Blog Post 1</a></li>
-  <li><a href="[Blog Post Link]">Blog Post 2</a></li>
-  <li><a href="[Blog Post Link]">Blog Post 3</a></li>
-</ul>
+### 🎯 **Goals for 2025**
+- Contribute to **open-source projects** regularly.
+- Master **backend development** with Node.js and Express.
+- Build a **personal project** that solves a real-world problem.
 
-<h3 align="left">🎯 Goals for 2023</h3>
-<ul>
-  <li>Master backend development with Node.js and Express.</li>
-  <li>Contribute to open-source projects.</li>
-  <li>Build a personal project that solves a real-world problem.</li>
-</ul>
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=glinet-dev&label=Profile%20views&color=0e75b6&style=flat" alt="glinet-dev" />
+  <img src="https://komarev.com/ghpvc/?username=glinet-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
